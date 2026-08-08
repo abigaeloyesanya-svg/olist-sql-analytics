@@ -40,5 +40,5 @@ The complete analysis, including methodology notes, result screenshots, and the 
 
 ## Author
 
-Oluwapelumi Abigael Oyesanya — Data Analyst
+Oluwapelumi Abigael Oyesanya, Data Analyst
 [LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
