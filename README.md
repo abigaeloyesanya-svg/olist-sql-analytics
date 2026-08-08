@@ -34,3 +34,8 @@ The complete analysis, including methodology notes, result screenshots, and the 
 MySQL 8.0, common table expressions, window functions including LAG, RANK, and DENSE_RANK, and cohort based retention modeling.
 
 ## Repository Structure
+
+## Author
+
+Oluwapelumi Abigael Oyesanya — Data Analyst
+[LinkedIn](https://www.linkedin.com/in/oluwapelumi-oyesanya) · [Email](mailto:abigaeloyesanya@gmail.com)
